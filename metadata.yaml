@@ -1,0 +1,32 @@
+_repo: The-Project-Gutenberg-Collection-of-Works-by-FreethinkersMulti-Volume-Sets._41450
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41450-h/files/36882/36882-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41450'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Free thought'
+- !lcc 'BL'
+title: "The Project Gutenberg Collection of Works by Freethinkers\r\nWith Linked On-line\
+  \ and Off-line Indexes to 157 Volumes by 90 Authors; Plus Indexes to 15 other Author's\
+  \ Multi-Volume Sets."
+url: http://www.gutenberg.org/ebooks/41450
